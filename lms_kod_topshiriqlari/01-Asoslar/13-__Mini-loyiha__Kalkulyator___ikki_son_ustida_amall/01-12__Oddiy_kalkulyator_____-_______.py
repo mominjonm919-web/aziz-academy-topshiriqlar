@@ -1,0 +1,6 @@
+x = input()
+a, b = x.split()
+print(int(a)+int(b))
+print(int(a)-int(b))
+print(int(a)*int(b))
+print(int(a)/int(b))
