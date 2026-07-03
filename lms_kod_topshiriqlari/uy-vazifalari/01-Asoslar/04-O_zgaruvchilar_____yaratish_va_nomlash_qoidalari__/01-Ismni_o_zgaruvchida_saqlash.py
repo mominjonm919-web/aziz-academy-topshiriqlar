@@ -1,1 +1,1 @@
-print("Iam: Aziz")
+print("Ism: Aziz")
