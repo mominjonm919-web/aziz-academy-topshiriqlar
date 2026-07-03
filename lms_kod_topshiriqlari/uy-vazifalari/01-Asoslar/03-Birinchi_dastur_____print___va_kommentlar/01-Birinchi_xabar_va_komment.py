@@ -1,1 +1,1 @@
-print("Salom dunyo")
+print("Men Python o'rganyapman!")
