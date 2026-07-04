@@ -1,1 +1,2 @@
-print("A-B-C-> Yakun")
+print("A", "B", "C", sep="-", end=" -> ")
+print("Yakun")
