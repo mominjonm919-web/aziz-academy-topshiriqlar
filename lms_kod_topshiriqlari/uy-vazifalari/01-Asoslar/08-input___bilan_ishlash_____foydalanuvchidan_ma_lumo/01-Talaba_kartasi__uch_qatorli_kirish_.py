@@ -1,0 +1,7 @@
+ism = input().strip()
+familiya = input().strip()
+kurs = input().strip()
+print("=== TALABA ===")
+print(f"Ism: {ism}")
+print(f"Familiya: {familiya}")
+print(f"Kurs: {kurs}")
