@@ -1,26 +1,26 @@
-# 🎓 Aziz Academy — MOMINOV MOMINJON
+# 🎓 Aziz Academy — Mominov Mominjon
 
 **Kurs:** Dasturlash / IT
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **2%**  (3/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **3%**  (5/179 mavzu)
 
-- ⭐ Jami ball: **14719**
+- ⭐ Jami ball: **15611**
 - 📤 GitHubga yuborilgan topshiriqlar: **328**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
 **MODUL 1 — Asoslar** → **Sonlar: int va float — butun va kasr sonlar**
 
-➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
+➡️ Keyingi mavzu: *Stringlar — kirish: matn, qo'shtirnoqlar, len()*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ⬜ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
 - ✅ Sonlar: int va float — butun va kasr sonlar  ← yetgan joyingiz
 - ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `██░░░░░░░░` 20% | 3/15 |
+| 1 | 🔸 Asoslar | `███░░░░░░░` 33% | 5/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-14 03:52</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 08:49</sub>
