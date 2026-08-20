@@ -1,3 +1,4 @@
+akademiya = "Aziz Academy"
 print("Xush kelibsiz!")
-print("Bu yerda Aziz Academy sizga ta'lim beradi.")
-print("Aziz Academy - kelajak kasbi")
+print(f"Bu yerda {akademiya} sizga ta'lim beradi.")
+print(f"{akademiya} - kelajak kasbi.")
