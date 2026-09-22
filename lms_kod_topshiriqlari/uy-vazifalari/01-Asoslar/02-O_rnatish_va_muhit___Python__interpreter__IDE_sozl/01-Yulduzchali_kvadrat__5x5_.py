@@ -1,5 +1,2 @@
-print("*****")
-print("*****")
-print("*****")
-print("*****")
-print("*****")
+for _ in range(5):
+    print('*****')
