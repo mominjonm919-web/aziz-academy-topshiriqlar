@@ -4,35 +4,30 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **6%**  (11/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **7%**  (13/179 mavzu)
 
-- ⭐ Jami ball: **28861**
-- 📤 GitHubga yuborilgan topshiriqlar: **370**
+- ⭐ Jami ball: **29371**
+- 📤 GitHubga yuborilgan topshiriqlar: **372**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik**
+**MODUL 2 — Stringlar va Formatlash** → **String metodlari — 1: lower, upper, strip, title**
 
-➡️ Keyingi mavzu: *O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)*
+➡️ Keyingi mavzu: *Index va slicing ⭐ — s[0], s[1:4], s[::-1]*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ✅ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ⬜ Sonlar: int va float — butun va kasr sonlar
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
-- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ✅ Mantiqiy operatorlar — and, or, not
-- ✅ Solishtirish operatorlari — == != > < >= <=
-- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()
-- ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
-- ✅ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik  ← yetgan joyingiz
-- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
+- ⬜ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
+- ✅ String metodlari — 1: lower, upper, strip, title  ← yetgan joyingiz
+- ⬜ String metodlari — 2: replace, find, count, split, join
+- ⬜ in operatori — substring izlash, mavjudlikni tekshirish
+- ⬜ f-string ⭐ — zamonaviy formatlash (f"{ism}")
+- ⬜ Boshqa formatlash — .format() va % (eski usullar)
+- ⬜ Escape belgilar — \n, \t, \\, \"
+- ⬜ Ko'p qatorli stringlar — """...""", docstring
+- ⬜ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
 
 </details>
 
@@ -40,8 +35,8 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
-| 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
+| 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
+| 2 | 🔸 Stringlar va Formatlash | `█░░░░░░░░░` 10% | 1/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
@@ -63,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-29 08:14</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-29 17:37</sub>
